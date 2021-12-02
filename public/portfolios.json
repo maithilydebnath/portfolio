@@ -1,0 +1,18 @@
+[
+    {
+        "_id": 1,
+        "name": "Baby's Toy World ",
+        "img":
+        "website": "https://niche-baby-toy-world.web.app/"
+    },
+    {
+        "_id": 2,
+        "name": "Travel and Explore ",
+        "website": "https://travel-and-explore-5cbaa.web.app/"
+    },
+    {
+        "_id": 3,
+        "name": "General Hospital ",
+        "website": "https://general-hospital-4890a.web.app/"
+    }
+]
